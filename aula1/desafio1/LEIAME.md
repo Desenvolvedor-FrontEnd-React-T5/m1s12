@@ -1,4 +1,4 @@
-# Ex1 — Quiz da Copa com Node e npm
+# Desafio1 — Quiz da Copa com Node e npm
 
 ## O que você vai construir
 Um quiz de 10 perguntas sobre a Copa do Mundo que roda **no terminal**, com `prompt-sync` (ler a resposta)
