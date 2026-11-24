@@ -1,5 +1,5 @@
 // ============================================================
-// saudacao.js — cumprimento do Quiz da Copa (Aula 1 · Ex2)
+// saudacao.js — cumprimento do Quiz da Copa (Aula 1 · Ex1)
 // Arquivo PRONTO. Vamos EDITÁ-LO ao vivo para ver o nodemon
 // reiniciar sozinho. Você escreve só os comandos do terminal.
 // ============================================================
