@@ -11,6 +11,7 @@ O quiz está modularizado em **CommonJS** e usa o `chalk@4`. O professor pede: *
 
 ## Parte B — Os dois consertos
 **Conserto 1 (band-aid):** `const chalk = require("chalk").default;` — roda, mas o projeto continua "mentindo" que é CommonJS.
+
 **Conserto 2 (o certo):** assumir ESM.
 1. No `package.json`: `"type": "module"`.
 2. `index.js`: `require` → `import` (veja o quadro abaixo).
